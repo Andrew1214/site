@@ -2,9 +2,9 @@
 /*Yusei Magic текст*/
 
 *{
-	margin:0;
-	padding: 0;
-	outline: none;
+  margin:0;
+  padding: 0;
+  outline: none;
 }
 
 
@@ -84,7 +84,7 @@ a{
 
 
 #picture{
-	float: right;
+    float: right;
     margin-top: 5%;
     margin-right: 5%;
 }
