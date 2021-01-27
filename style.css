@@ -20,23 +20,23 @@ h1{
 }
  
 a{
-	margin-right: 8%;
-	font-size: 40px;
-	text-decoration: none;
-	color:black;
+  margin-right: 8%;
+  font-size: 40px;
+  text-decoration: none;
+  color:black;
 }
 
 #history{
-	margin-left: 10%;
+  margin-left: 10%;
 }
 
 /* Style the video: 100% width and height to cover the entire window */
 #myVideo {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
 }
 
 #header2{
@@ -45,46 +45,46 @@ a{
 }
 
 #video{
-	position: relative;
-	padding-bottom: 56%;
+  position: relative;
+  padding-bottom: 56%;
 }
 
 #intro{
-	max-height: 100vh;
-	overflow: hidden;
+  max-height: 100vh;
+  overflow: hidden;
 }
 
 #header1{
-	width: 100%;
-	height: 100%;
-	position: absolute;
-	top: 0;
-	left: 0;
-	z-index: 3;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 3;
 
 }
 
 #conteiner{
-	margin: 0 auto;
-	max-width: 1200px;
+  margin: 0 auto;
+  max-width: 1200px;
 }
 
 
 #conteiner2{
-	font-family: 'Balsamiq Sans', cursive;
-	margin-left: 10%;
-	width: 750px;
-	font-size: 40px;
-	margin-top: 5%;
+  font-family: 'Balsamiq Sans', cursive;
+  margin-left: 10%;
+  width: 750px;
+  font-size: 40px;
+  margin-top: 5%;
 }
 
 .vmist{
-    display: inline-block;
+  display: inline-block;
 }
 
 
 #picture{
-    float: right;
-    margin-top: 5%;
-    margin-right: 5%;
+  float: right;
+  margin-top: 5%;
+  margin-right: 5%;
 }
